@@ -1,0 +1,15 @@
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\bin\Debug\net6.0\BasicElseIfSwitchTest.exe
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\bin\Debug\net6.0\BasicElseIfSwitchTest.deps.json
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\bin\Debug\net6.0\BasicElseIfSwitchTest.runtimeconfig.json
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\bin\Debug\net6.0\BasicElseIfSwitchTest.dll
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\bin\Debug\net6.0\BasicElseIfSwitchTest.pdb
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\BasicElseIfSwitchTest.csproj.AssemblyReference.cache
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\BasicElseIfSwitchTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\BasicElseIfSwitchTest.AssemblyInfoInputs.cache
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\BasicElseIfSwitchTest.AssemblyInfo.cs
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\BasicElseIfSwitchTest.csproj.CoreCompileInputs.cache
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\BasicElseIfSwitchTest.dll
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\refint\BasicElseIfSwitchTest.dll
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\BasicElseIfSwitchTest.pdb
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\BasicElseIfSwitchTest.genruntimeconfig.cache
+C:\Users\seano\Desktop\C#\BasicElseIfSwitchTest\obj\Debug\net6.0\ref\BasicElseIfSwitchTest.dll

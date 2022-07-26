@@ -1,0 +1,15 @@
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\bin\Debug\net6.0\LeapYearLogicalOp.exe
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\bin\Debug\net6.0\LeapYearLogicalOp.deps.json
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\bin\Debug\net6.0\LeapYearLogicalOp.runtimeconfig.json
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\bin\Debug\net6.0\LeapYearLogicalOp.dll
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\bin\Debug\net6.0\LeapYearLogicalOp.pdb
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\LeapYearLogicalOp.csproj.AssemblyReference.cache
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\LeapYearLogicalOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\LeapYearLogicalOp.AssemblyInfoInputs.cache
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\LeapYearLogicalOp.AssemblyInfo.cs
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\LeapYearLogicalOp.csproj.CoreCompileInputs.cache
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\LeapYearLogicalOp.dll
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\refint\LeapYearLogicalOp.dll
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\LeapYearLogicalOp.pdb
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\LeapYearLogicalOp.genruntimeconfig.cache
+C:\Users\seano\Desktop\C#\LeapYearLogicalOp\obj\Debug\net6.0\ref\LeapYearLogicalOp.dll
